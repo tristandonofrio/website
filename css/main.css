@@ -5,3 +5,8 @@
 .nav-spacing {
   margin-left: 10px;
 }
+
+.image-link {
+  target="_blank"
+  rel="noopener" style="text-decoration: none;
+}
